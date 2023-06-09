@@ -1,0 +1,28 @@
+header {
+  background-color: darkslateblue;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(to left, darkslateblue, #970873);
+}
+h1 {
+  font-size: 66px;
+  color: rgb(172, 126, 66);
+  padding-left: 24px;
+  margin-bottom: 36px;
+  cursor: pointer;
+}
+.search {
+  width: 280px;
+  height: 40px;
+  margin-right: 100px;
+  text-decoration: none;
+  border-radius: 50px;
+  padding: 10px;
+  outline: none;
+  font-size: 18px;
+}
+
